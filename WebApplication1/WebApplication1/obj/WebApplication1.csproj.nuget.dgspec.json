@@ -51,6 +51,10 @@
             "SwaggerUI.AspNetCore": {
               "target": "Package",
               "version": "[5.32.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.7, )"
             }
           },
           "imports": [
